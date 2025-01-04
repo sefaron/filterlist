@@ -1,4 +1,4 @@
-! Title: Hide Discord unnecessary content
+! Title: Hide Discord and YouTube unnecessary content
 ! Description: Hide unnecessary content from discord
 
 discord.com##.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-of-type(1) > .interactive_f5eb4b.interactive_c91bad.linkButton_c91bad
