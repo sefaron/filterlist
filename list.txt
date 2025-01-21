@@ -1,18 +1,23 @@
 ! Title: Hide Discord and YouTube unnecessary content
 ! Description: Hide unnecessary content from discord
 
+!hides the nitro button
 discord.com##.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-of-type(1) > .interactive_f5eb4b.interactive_c91bad.linkButton_c91bad
-discord.com##.button_df39bd.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
+
+!hides the shop button
 discord.com##li.channel_c91bad.container_d91ad9:nth-of-type(2) > .interactive_f5eb4b.interactive_c91bad.linkButton_c91bad
-discord.com##.container_fdeb78 > .button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
-discord.com##.footer_d71945 > .listItem_c96c45
-discord.com##.footer_d71945
-discord.com##.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-of-type(1)
-discord.com##li.channel_c91bad.container_d91ad9:nth-of-type(2)
-discord.com##.privateChannelsHeaderContainer_c47fa9.container_a5ad5c.text_a5ad5c
-discord.com##div.listItem_c96c45:nth-of-type(5)
+
+!hides the help button from the top toolbar
 discord.com##.toolbar_fc4f04 > .anchor_af404b.anchorUnderlineOnHover_af404b
+
+!hides dm gift nitro button
 discord.com##.buttons_bdf0de > button.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85:nth-of-type(1)
+
+!hide app button from dm
+discord.com##.button_df39bd.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
+
+
+
 
 ! coryn.club ad
 coryn.club##.card-adsense
