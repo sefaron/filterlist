@@ -2,19 +2,19 @@
 ! Description: Hide unnecessary content from discord
 
 !hides the nitro button
-discord.com##.content_eed6a8 > li.channel_c91bad.container_d91ad9:nth-of-type(1) > .interactive_f5eb4b.interactive_c91bad.linkButton_c91bad
+discord.com##.content__99f8c > li.channel__972a0.container_e45859:nth-of-type(1)
 
 !hides the shop button
-discord.com##li.channel_c91bad.container_d91ad9:nth-of-type(2) > .interactive_f5eb4b.interactive_c91bad.linkButton_c91bad
+discord.com##li.channel__972a0.container_e45859:nth-of-type(2) > .interactive_bf202d.interactive__972a0.linkButton__972a0
 
 !hides the help button from the top toolbar
-discord.com##.toolbar_fc4f04 > .anchor_af404b.anchorUnderlineOnHover_af404b
+discord.com##.anchor_edefb8.anchorUnderlineOnHover_edefb8
 
 !hides dm gift nitro button
-discord.com##.buttons_bdf0de > button.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85:nth-of-type(1)
+discord.com##.buttons__74017 > button.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5:nth-of-type(1)
 
 !hide app button from dm
-discord.com##.button_df39bd.button_dd4f85.lookBlank_dd4f85.colorBrand_dd4f85.grow_dd4f85
+discord.com##.button_e6e74f.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5
 
 
 
