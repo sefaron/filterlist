@@ -7,14 +7,17 @@ discord.com##.content__99f8c > li.channel__972a0.container_e45859:nth-of-type(1)
 !hides the shop button
 discord.com##li.channel__972a0.container_e45859:nth-of-type(2) > .interactive_bf202d.interactive__972a0.linkButton__972a0
 
-!hides the help button from the top toolbar
-discord.com##.anchor_edefb8.anchorUnderlineOnHover_edefb8
-
 !hides dm gift nitro button
 discord.com##.buttons__74017 > button.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5:nth-of-type(1)
 
 !hide app button from dm
 discord.com##.button_e6e74f.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5
+
+!download discord circle button on left
+discord.com##.scroller_ef3116.none_d125d2.scrollerBase_d125d2 > div.listItem__650eb:nth-of-type(5) > .listItemWrapper__91816 > .wrapperSimple_cc5dd2.wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
+
+!hide discover circle button on left
+discord.com##.circleIconButton__5bc7e.discoveryIcon_ef3116
 
 
 
