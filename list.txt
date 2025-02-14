@@ -21,6 +21,14 @@ discord.com##.circleIconButton__5bc7e.discoveryIcon_ef3116
 
 
 
+discord.com##.container_c0c49a > .button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5
+discord.com##.footer__214dc > .listItem__650eb
+discord.com##.privateChannelsHeaderContainer__99e7c.container__13cf1.text__13cf1
+discord.com##.searchBar__35e86
+discord.com##.toolbar__9293f > .anchor_edefb8.anchorUnderlineOnHover_edefb8
+
+
+
 
 ! coryn.club ad
 coryn.club##.card-adsense
