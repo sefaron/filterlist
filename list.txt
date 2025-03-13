@@ -31,6 +31,12 @@ discord.com##.toolbar__9293f > .anchor_edefb8.anchorUnderlineOnHover_edefb8
 chapmanganato.to##.container-chapter-reader > div:nth-of-type(1) > div:nth-of-type(2) > div > iframe
 
 
+! Mar 13, 2025 https://comick.io
+comick.io##.text-xs.dark\:border-gray-700.rounded
+comick.io##.rounded.dark\:bg-gray-750.bg-gray-100.justify-center.w-full.items-center.flex
+comick.io##.pt-2.pb-10 > .py-2.text-xs.text-center
+comick.io##.py-16
+
 
 ! coryn.club ad
 coryn.club##.card-adsense
