@@ -41,6 +41,10 @@ comick.io##.rounded.dark\:bg-gray-750.bg-gray-100.justify-center.w-full.items-ce
 comick.io##.pt-2.pb-10 > .py-2.text-xs.text-center
 comick.io##.py-16
 
+192.168.10.1###cbi-download-app
+
+tracker.gg##.size-inline-rectangle-img
+tracker.gg##.size-inline-rectangle.ad-container.area-aside-ad
 
 ! coryn.club ad
 coryn.club##.card-adsense
