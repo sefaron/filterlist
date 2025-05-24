@@ -1,3 +1,3 @@
 ```
-https://raw.githubusercontent.com/Lixeira/filterlist/refs/heads/main/list.txt
+https://raw.githubusercontent.com/sefaron/filterlist/refs/heads/main/list.txt
 ```
