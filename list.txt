@@ -44,3 +44,6 @@ tracker.gg##.size-inline-rectangle.ad-container.area-aside-ad
 
 ! coryn.club ad
 coryn.club##.card-adsense
+
+www.youtube.com##.ytp-speed-slider-menu-footer
+www.youtube.com##.ytp-menuitem.ytp-menuitem-with-footer
