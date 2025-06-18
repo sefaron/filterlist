@@ -19,6 +19,11 @@ discord.com##.scroller_ef3116.none_d125d2.scrollerBase_d125d2 > div.listItem__65
 !hide discover circle button on left
 discord.com##.circleIconButton__5bc7e.discoveryIcon_ef3116
 
+!friend activity sidebar (right)
+discord.com##.scroller__7d20c.thin_d125d2.scrollerBase_d125d2
+discord.com##.container__7d20c
+discord.com##.nowPlayingColumn__133bf
+
 discord.com##.tutorialContainer__650eb > .listItem__650eb > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
 discord.com##div.listItem__650eb:nth-of-type(7) > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
 discord.com##div.listItem__650eb:nth-of-type(6) > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
