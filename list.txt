@@ -1,54 +1,34 @@
 ! Title: ef's filter list
-! Description: Hide unnecessary content from discord
+! Description: Hide unnecessary content
 
-!hides the nitro button
-discord.com##.content__99f8c > li.channel__972a0.container_e45859:nth-of-type(1)
-
-!hides the shop button
-discord.com##li.channel__972a0.container_e45859:nth-of-type(2) > .interactive_bf202d.interactive__972a0.linkButton__972a0
-
-!hides dm gift nitro button
-discord.com##.buttons__74017 > button.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5:nth-of-type(1)
-
-!hide app button from dm
-discord.com##.button_e6e74f.button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5
-
-!download discord circle button on left
-discord.com##.scroller_ef3116.none_d125d2.scrollerBase_d125d2 > div.listItem__650eb:nth-of-type(5) > .listItemWrapper__91816 > .wrapperSimple_cc5dd2.wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
-
-!hide discover circle button on left
-discord.com##.circleIconButton__5bc7e.discoveryIcon_ef3116
-
-!friend activity sidebar (right)
-discord.com##.scroller__7d20c.thin_d125d2.scrollerBase_d125d2
+! Discord
+discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8 > .clickable__9293f.iconWrapper__9293f.button__85643
+discord.com##.grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5.button_e6e74f
+discord.com##.buttons__74017 > .grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5 > .button__74017.button__24af7.contents__201d5
+discord.com##.content__99f8c > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
+discord.com##.discoveryIcon_ef3116.circleIconButton__5bc7e
+discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116.stack_dbd263 > div.listItem__650eb > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
+discord.com##.scrollerBase_d125d2.thin_d125d2.scroller__7d20c
 discord.com##.container__7d20c
 discord.com##.nowPlayingColumn__133bf
 
-discord.com##.tutorialContainer__650eb > .listItem__650eb > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
-discord.com##div.listItem__650eb:nth-of-type(7) > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
-discord.com##div.listItem__650eb:nth-of-type(6) > .listItemWrapper__91816 > .wrapper_cc5dd2 > .svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
-
-discord.com##.container_c0c49a > .button__201d5.lookBlank__201d5.colorBrand__201d5.grow__201d5
-discord.com##.footer__214dc > .listItem__650eb
-discord.com##.privateChannelsHeaderContainer__99e7c.container__13cf1.text__13cf1
-discord.com##.searchBar__35e86
-discord.com##.toolbar__9293f > .anchor_edefb8.anchorUnderlineOnHover_edefb8
-
-chapmanganato.to##.container-chapter-reader > div:nth-of-type(1) > div:nth-of-type(2) > div > iframe
-
-! Mar 13, 2025 https://comick.io
-comick.io##.text-xs.dark\:border-gray-700.rounded
-comick.io##.rounded.dark\:bg-gray-750.bg-gray-100.justify-center.w-full.items-center.flex
-comick.io##.pt-2.pb-10 > .py-2.text-xs.text-center
-comick.io##.py-16
-
+! Cudy
 192.168.10.1###cbi-download-app
 
+! Tracker.gg
 tracker.gg##.size-inline-rectangle-img
 tracker.gg##.size-inline-rectangle.ad-container.area-aside-ad
 
 ! coryn.club ad
 coryn.club##.card-adsense
 
+! YouTube
 www.youtube.com##.ytp-speed-slider-menu-footer
 www.youtube.com##.ytp-menuitem.ytp-menuitem-with-footer
+www.youtube.com###rich-shelf-header
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(2)
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(3)
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
