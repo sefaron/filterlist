@@ -12,6 +12,10 @@ discord.com##.scrollerBase_d125d2.thin_d125d2.scroller__7d20c
 discord.com##.container__7d20c
 discord.com##.nowPlayingColumn__133bf
 
+! comick.io
+comick.io##.pb-10.pt-2
+comick.io##.py-16
+
 ! Cudy
 192.168.10.1###cbi-download-app
 
