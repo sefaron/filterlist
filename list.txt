@@ -13,13 +13,7 @@ discord.com##.container__7d20c
 discord.com##.nowPlayingColumn__133bf
 
 ! comick.io
-comick.io##.pb-10.pt-2
-comick.io##.py-16
-comick.io##.pt-2.pb-10
-comick.io##.rounded.dark\:bg-gray-750.bg-gray-100.justify-center.w-full.items-center.flex
-comick.io##.text-xs.dark\:border-gray-700.rounded
-comick.io##.pr-2.mt-3 > .h-8
-comick.io##.md\:mx-0.mx-1.dark\:text-blue-300.text-blue-900.dark\:bg-blue-900.bg-blue-100.dark\:border-blue-700.border-blue-400.items-center.shadow.border-l-8.flex.p-2.rounded
+
 
 ! Cudy
 192.168.10.1###cbi-download-app
