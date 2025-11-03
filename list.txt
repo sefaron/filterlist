@@ -1,25 +1,6 @@
 ! Title: ef's filter list
 ! Description: Hide unnecessary content
 
-! Discord
-discord.com##.anchorUnderlineOnHover_edefb8.anchor_edefb8 > .clickable__9293f.iconWrapper__9293f.button__85643
-discord.com##.grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5.button_e6e74f
-discord.com##.buttons__74017 > .grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5 > .button__74017.button__24af7.contents__201d5
-discord.com##.content__99f8c > li.container_e45859.channel__972a0 > .linkButton__972a0.interactive__972a0.interactive_bf202d > .link__972a0
-discord.com##.discoveryIcon_ef3116.circleIconButton__5bc7e
-discord.com##.scrollerBase_d125d2.none_d125d2.scroller_ef3116.stack_dbd263 > div.listItem__650eb > .listItemWrapper__91816 > .wrapper_cc5dd2 > .shiftSVG_cc5dd2.svg_cc5dd2 > foreignObject > .circleIconButton__5bc7e
-discord.com##.scrollerBase_d125d2.thin_d125d2.scroller__7d20c
-discord.com##.container__7d20c
-discord.com##.nowPlayingColumn__133bf
-
-! comick.io
-comick.io##.text-xs.dark\:border-gray-700.rounded
-comick.io##.visible.lg\:hidden.w-18.truncate.text-xs.rounded-md.px-2.md\:py-2\.5.py-2.text-white.bg-blue-500
-comick.io##.md\:mx-0.mx-1.dark\:text-blue-300.text-blue-900.dark\:bg-blue-900.bg-blue-100.dark\:border-blue-700.border-blue-400.items-center.shadow.border-l-8.flex.p-2.rounded
-comick.io##.rounded.dark\:bg-gray-750.bg-gray-100.justify-center.w-full.items-center.flex
-comick.io##.pt-2.pb-10
-comick.io##.py-16
-
 ! Cudy
 192.168.10.1###cbi-download-app
 
@@ -31,14 +12,5 @@ tracker.gg##.size-inline-rectangle.ad-container.area-aside-ad
 coryn.club##.card-adsense
 
 ! YouTube
-www.youtube.com##.ytp-speed-slider-menu-footer
-www.youtube.com##.ytp-menuitem.ytp-menuitem-with-footer
-www.youtube.com###rich-shelf-header
-www.youtube.com###content > .ytd-rich-section-renderer.style-scope
-www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
-www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
-www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(2)
-www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(3)
-www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(2)
+youtube.com###ytd-reel-shelf-renderer
+youtube.com##.ytd-rich-shelf-renderer
