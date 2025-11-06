@@ -14,6 +14,7 @@ coryn.club##.card-adsense
 ! YouTube
 youtube.com###ytd-reel-shelf-renderer
 youtube.com##.ytd-rich-shelf-renderer
+youtube.com##ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer
 
 ! Discord
 discord.com##.nowPlayingColumn__133bf
