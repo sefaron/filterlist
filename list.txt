@@ -12,12 +12,12 @@ tracker.gg##.size-inline-rectangle.ad-container.area-aside-ad
 coryn.club##.card-adsense
 
 ! YouTube
-youtube.com###ytd-reel-shelf-renderer
-youtube.com##.ytd-rich-shelf-renderer
-youtube.com##ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer
-youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton:nth-of-type(1)
-youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer:nth-of-type(2)
-youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer:nth-of-type(3)
+! youtube.com###ytd-reel-shelf-renderer
+! youtube.com##.ytd-rich-shelf-renderer
+! youtube.com##ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer
+! youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton:nth-of-type(1)
+! youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer:nth-of-type(2)
+! youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer:nth-of-type(3)
 
 ! Discord
 discord.com##.nowPlayingColumn__133bf
