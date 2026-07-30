@@ -20,6 +20,8 @@ youtube.com##ytd-horizontal-card-list-renderer.style-scope.ytd-item-section-rend
 youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 youtube.com##ytd-rich-shelf-renderer[elements-per-row][is-shorts][show-bottom-divider][is-truncated][restrict-contents-overflow][style]
 
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+
 ! Discord
 discord.com##.nowPlayingColumn__133bf
 discord.com##.button_e6e74f
