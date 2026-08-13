@@ -19,6 +19,7 @@ youtube.com##grid-shelf-view-model:nth-of-type(4)
 youtube.com##ytd-horizontal-card-list-renderer.style-scope.ytd-item-section-renderer
 youtube.com##grid-shelf-view-model.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 youtube.com##ytd-rich-shelf-renderer[elements-per-row][is-shorts][show-bottom-divider][is-truncated][restrict-contents-overflow][style]
+youtube.com##div.ytp-variable-speed-panel-preset-button-wrapper:nth-of-type(6) > .ytp-button.ytp-variable-speed-panel-preset-button.ytp-variable-speed-panel-button
 
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 
